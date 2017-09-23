@@ -10,11 +10,12 @@
 
 Its aim is to provide a first-class syntax highlighting with colors you love.
 
-> I'm not author of all those carefully selected colors. Share your love with original authors: support, star, like or just thank them!
-
 > **Note**:
+>    - I'm not author of all those carefully selected colors.
 >    - Only background, foreground, comment and six base colors are used.
 >    - Syntax highlighting differs from original ones.
+
+Share your ❤ with original authors: support or just thank them!
 
 
 
