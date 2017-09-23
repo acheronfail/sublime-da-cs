@@ -10,7 +10,6 @@
 
 Its aim is to provide a first-class syntax highlighting with colors you love.
 
-> **Note**:
 >    - I'm not author of all those carefully selected colors.
 >    - Only background, foreground, comment and six base colors are used.
 >    - Syntax highlighting differs from original ones.
