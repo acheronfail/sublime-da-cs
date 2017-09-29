@@ -1,0 +1,12 @@
+# Development
+# =============================
+
+*.sublime-project
+*.sublime-workspace
+
+node_modules/
+
+# OS
+# =============================
+
+.DS_Store
