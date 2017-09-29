@@ -65,6 +65,21 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 
 
 
+## Color Schemes
+
+
+### Color Pack from Chris Kempson
+
+* Original [sources](https://github.com/chriskempson/base16).
+* Licensed under the [MIT License](https://github.com/chriskempson/base16/blob/master/LICENSE.md).
+
+
+#### Eighties Dark
+
+![Eighties Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png)
+
+
+
 <!-- Links -->
 
 [link-downloads]: https://packagecontrol.io/packages/DA%20CS
