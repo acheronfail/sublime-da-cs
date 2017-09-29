@@ -5,5 +5,6 @@
 # Files and directories with the attribute export-ignore won’t be added to
 # archive files. See http://git-scm.com/docs/gitattributes for details.
 /.gitattributes     export-ignore
-/pkgctrl/           export-ignore
 /assets/            export-ignore
+/examples/          export-ignore
+/pkgctrl/           export-ignore
