@@ -79,6 +79,26 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Eighties Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png)
 
 
+#### Ocean Dark
+
+![Ocean Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png)
+
+
+#### Ocean Light
+
+![Ocean Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png)
+
+
+#### Tomorrow Dark
+
+![Tomorrow Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png)
+
+
+#### Tomorrow Light
+
+![Tomorrow Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png)
+
+
 
 <!-- Links -->
 
