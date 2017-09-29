@@ -41,7 +41,7 @@ Share your ❤ with original authors: support or just thank them!
 **Behind the scene**:
 
 - DA UI will re-apply your new settings for the current global color scheme automatically if the engine is supported.
-- If you've changed the global color scheme, run `DA UI: Re-apply Settings` command to do that manually. Later, there will be option to do that automatically on color scheme change.
+- If you've changed the global color scheme, run `DA UI: Re-apply Settings` command to do that manually.
 
 
 ### Change Some Colors of the Specific Color Scheme
