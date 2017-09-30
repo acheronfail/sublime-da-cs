@@ -246,6 +246,17 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Espresso Libre](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-libre.png)
 
 
+### Color Pack from Ian Hill
+
+* Original [sources](https://github.com/buymeasoda/soda-theme).
+* Licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+
+#### Espresso Soda
+
+![Espresso Soda](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-soda.png)
+
+
 
 <!-- Links -->
 
