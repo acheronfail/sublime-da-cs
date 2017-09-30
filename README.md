@@ -235,6 +235,17 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Nord](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nord.png)
 
 
+### Color Pack from Chris Thomas
+
+* Original [sources](https://github.com/textmate/themes.tmbundle/blob/master/Themes/Espresso%20Libre.tmTheme).
+* Licensed under the [Permissive License](https://github.com/textmate/themes.tmbundle/blob/master/README.mdown).
+
+
+#### Espresso Libre
+
+![Espresso Libre](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-libre.png)
+
+
 
 <!-- Links -->
 
