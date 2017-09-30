@@ -99,6 +99,22 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Tomorrow Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png)
 
 
+### Color Pack from Ethan Schoonover
+
+* Original [sources](http://ethanschoonover.com/solarized).
+* Licensed under the [MIT License](https://github.com/altercation/solarized/blob/master/LICENSE).
+
+
+#### Solarized Dark
+
+![Solarized Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-dark.png)
+
+
+#### Solarized Light
+
+![Solarized Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-light.png)
+
+
 
 <!-- Links -->
 
