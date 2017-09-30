@@ -115,6 +115,18 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Solarized Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-light.png)
 
 
+### Color Pack from Dmitri Voronianski
+
+* Original [sources](https://labs.voronianski.com/oceanic-next-color-scheme/).
+* Licensed under the [MIT License](https://github.com/voronianski/oceanic-next-color-scheme/blob/master/README.md).
+* You can support Dmitri using [PayPal](https://www.paypal.me/voronianski).
+
+
+#### Oceanic Next
+
+![Oceanic Next](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/oceanic-next.png)
+
+
 
 <!-- Links -->
 
