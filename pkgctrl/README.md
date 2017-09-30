@@ -61,6 +61,230 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 4. Activate the color scheme.
 5. Run `DA UI: Re-apply Settings` command.
 
+
+
+## Found an Issue?
+
+Please [search][link-search-issue] for a similar issue first, before creating [a new one][link-new-issue].
+
+Please fill out the issue template when reporting a bug or suggestion.
+
+
+
+## Color Schemes
+
+
+### Color Pack from Chris Kempson
+
+* Original [sources](https://github.com/chriskempson/base16).
+* Licensed under the [MIT License](https://github.com/chriskempson/base16/blob/master/LICENSE.md).
+
+
+#### Eighties Dark
+
+![Eighties Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png)
+
+
+#### Ocean Dark
+
+![Ocean Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png)
+
+
+#### Ocean Light
+
+![Ocean Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png)
+
+
+#### Tomorrow Dark
+
+![Tomorrow Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png)
+
+
+#### Tomorrow Light
+
+![Tomorrow Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png)
+
+
+### Color Pack from Ethan Schoonover
+
+* Original [sources](http://ethanschoonover.com/solarized).
+* Licensed under the [MIT License](https://github.com/altercation/solarized/blob/master/LICENSE).
+
+
+#### Solarized Dark
+
+![Solarized Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-dark.png)
+
+
+#### Solarized Light
+
+![Solarized Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-light.png)
+
+
+### Color Pack from Dmitri Voronianski
+
+* Original [sources](https://labs.voronianski.com/oceanic-next-color-scheme/).
+* Licensed under the [MIT License](https://github.com/voronianski/oceanic-next-color-scheme/blob/master/README.md).
+* You can show your appreciation to Dmitri using [PayPal](https://www.paypal.me/voronianski).
+
+
+#### Oceanic Next
+
+![Oceanic Next](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/oceanic-next.png)
+
+
+### Color Pack from Wimer Hazenberg
+
+* Original [sources](https://www.monokai.pro/sublime-text/).
+* Monokai &copy; 2017.
+* You can show your appreciation to Wimer via buying [Monokai Pro](https://www.monokai.pro/sublime-text/).
+
+
+#### Monokai Classic
+
+![Monokai Classic](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-classic.png)
+
+
+#### Monokai Machine
+
+![Monokai Machine](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-machine.png)
+
+
+#### Monokai Octagon
+
+![Monokai Octagon](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-octagon.png)
+
+
+#### Monokai Pro
+
+![Monokai Pro](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-pro.png)
+
+
+#### Monokai Ristretto
+
+![Monokai Ristretto](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-ristretto.png)
+
+
+#### Monokai Spectrum
+
+![Monokai Spectrum](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-spectrum.png)
+
+
+### Color Pack from Mattia Astorino
+
+* Original [sources](https://github.com/equinusocio/material-theme).
+* Licensed under the [MIT License](https://github.com/equinusocio/material-theme/blob/master/LICENSE.md).
+* You can show your appreciation to Mattia using [Beerpay](https://beerpay.io/equinusocio/material-theme).
+
+
+#### Material
+
+![Material](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material.png)
+
+
+#### Material Darker
+
+![Material Darker](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-darker.png)
+
+
+#### Material Palenight
+
+![Material Palenight](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-palenight.png)
+
+
+### Color Pack from GitHub Inc.
+
+* Original [sources](https://github.com/atom/one-dark-syntax).
+* Licensed under the [MIT License](https://github.com/atom/one-dark-syntax/blob/master/LICENSE.md).
+
+
+#### One Dark
+
+![One Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-dark.png)
+
+
+#### One Light
+
+![One Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-light.png)
+
+
+### Color Pack from Jani Nurminen, Colin T.A. Gray, William D. Neumann
+
+* Original [sources](https://github.com/colinta/zenburn).
+* Licensed under the [BSD 2-clause "Simplified" License](https://github.com/colinta/zenburn/blob/master/LICENSE).
+
+
+#### Zenburn
+
+![Zenburn](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/zenburn.png)
+
+
+### Color Pack from Adam Christiansen, Merrick Christensen, Trevor D. Miller
+
+* Original [sources](https://trevordmiller.com/projects/nova).
+* Licensed under the [MIT License](https://github.com/trevordmiller/nova-colors/blob/master/LICENSE).
+
+
+#### Nova
+
+![Nova](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nova.png)
+
+
+### Color Pack from Arctic Ice Studio
+
+* Original [sources](https://github.com/arcticicestudio/nord).
+* Licensed under the [Apache License](https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md).
+
+
+#### Nord
+
+![Nord](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nord.png)
+
+
+### Color Pack from Chris Thomas
+
+* Original [sources](https://github.com/textmate/themes.tmbundle/blob/master/Themes/Espresso%20Libre.tmTheme).
+* Licensed under the [Permissive License](https://github.com/textmate/themes.tmbundle/blob/master/README.mdown).
+
+
+#### Espresso Libre
+
+![Espresso Libre](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-libre.png)
+
+
+### Color Pack from Ian Hill
+
+* Original [sources](https://github.com/buymeasoda/soda-theme).
+* Licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
+
+
+#### Espresso Soda
+
+![Espresso Soda](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-soda.png)
+
+
+### Color Pack from Ike Ku
+
+* Original [sources](https://github.com/dempfi/ayu).
+* Licensed under the [MIT License](https://github.com/dempfi/ayu/blob/master/LICENSE).
+
+
+#### Ayu Dark
+
+![Ayu Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-dark.png)
+
+
+#### Ayu Light
+
+![Ayu Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-light.png)
+
+
+#### Ayu Mirage
+
+![Ayu Mirage](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-mirage.png)
+
+
+
 <!-- Links -->
 
 [link-engine]: https://packagecontrol.io/packages/DA%20UI
