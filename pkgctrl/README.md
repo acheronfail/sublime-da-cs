@@ -22,7 +22,9 @@ Share your ❤ with original authors: support or just thank them!
 
 1. Choose `Command Palette › Package Control: Install Package`.
 2. Find `DA CS` and hit `Enter`.
-3. Enjoy!
+3. Choose `Command Palette › UI: Select Color Scheme`.
+4. Find your favorite one.
+5. Enjoy!
 
 
 
