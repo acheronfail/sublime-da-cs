@@ -119,12 +119,49 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 
 * Original [sources](https://labs.voronianski.com/oceanic-next-color-scheme/).
 * Licensed under the [MIT License](https://github.com/voronianski/oceanic-next-color-scheme/blob/master/README.md).
-* You can support Dmitri using [PayPal](https://www.paypal.me/voronianski).
+* You can show your appreciation to Dmitri using [PayPal](https://www.paypal.me/voronianski).
 
 
 #### Oceanic Next
 
 ![Oceanic Next](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/oceanic-next.png)
+
+
+### Color Pack from Wimer Hazenberg
+
+* Original [sources](https://www.monokai.pro/sublime-text/).
+* Monokai &copy; 2017.
+* You can show your appreciation to Wimer via buying [Monokai Pro](https://www.monokai.pro/sublime-text/).
+
+
+#### Monokai Classic
+
+![Monokai Classic](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-classic.png)
+
+
+#### Monokai Machine
+
+![Monokai Machine](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-machine.png)
+
+
+#### Monokai Octagon
+
+![Monokai Octagon](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-octagon.png)
+
+
+#### Monokai Pro
+
+![Monokai Pro](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-pro.png)
+
+
+#### Monokai Ristretto
+
+![Monokai Ristretto](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-ristretto.png)
+
+
+#### Monokai Spectrum
+
+![Monokai Spectrum](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-spectrum.png)
 
 
 
