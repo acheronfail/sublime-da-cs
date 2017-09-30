@@ -224,6 +224,17 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Nova](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nova.png)
 
 
+### Color Pack from Arctic Ice Studio
+
+* Original [sources](https://github.com/arcticicestudio/nord).
+* Licensed under the [Apache License](https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md).
+
+
+#### Nord
+
+![Nord](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nord.png)
+
+
 
 <!-- Links -->
 
