@@ -296,7 +296,7 @@ Please fill out the issue template when reporting a bug or suggestion.
 [link-new-issue]: https://github.com/ihodev/sublime-da-ui/issues/new
 [link-search-issue]: https://github.com/ihodev/sublime-da-ui/search?q=&type=Issues
 [link-twitter]: https://twitter.com/intent/tweet?hashtags=sublimetext%2C%20popular%2C%20colors&ref_src=twsrc%5Etfw&text=DA%20CS%20%E2%9D%A4%20Popular%20Color%20Schemes%20for%20Sublime%20Text%203&tw_p=tweetbutton&url=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2FDA%2520CS&via=trydaui
-[link-pcpr]: #
+[link-pcpr]: https://github.com/wbond/package_control_channel/pull/6630
 
 
 
