@@ -65,6 +65,14 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 
 
 
+## Found an Issue?
+
+Please [search][link-search-issue] for a similar issue first, before creating [a new one][link-new-issue].
+
+Please fill out the issue template when reporting a bug or suggestion.
+
+
+
 ## Color Schemes
 
 
