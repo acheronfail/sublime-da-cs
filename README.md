@@ -186,6 +186,21 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Material Palenight](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-palenight.png)
 
 
+### Color Pack from GitHub Inc.
+
+* Original [sources](https://github.com/atom/one-dark-syntax).
+* Licensed under the [MIT License](https://github.com/atom/one-dark-syntax/blob/master/LICENSE.md).
+
+
+#### One Dark
+
+![One Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-dark.png)
+
+
+#### One Light
+
+![One Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-light.png)
+
 
 
 <!-- Links -->
