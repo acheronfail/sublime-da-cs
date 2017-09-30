@@ -164,6 +164,29 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Monokai Spectrum](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-spectrum.png)
 
 
+### Color Pack from Mattia Astorino
+
+* Original [sources](https://github.com/equinusocio/material-theme).
+* Licensed under the [MIT License](https://github.com/equinusocio/material-theme/blob/master/LICENSE.md).
+* You can show your appreciation to Mattia using [Beerpay](https://beerpay.io/equinusocio/material-theme).
+
+
+#### Material
+
+![Material](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material.png)
+
+
+#### Material Darker
+
+![Material Darker](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-darker.png)
+
+
+#### Material Palenight
+
+![Material Palenight](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-palenight.png)
+
+
+
 
 <!-- Links -->
 
