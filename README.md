@@ -205,12 +205,23 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ### Color Pack from Jani Nurminen, Colin T.A. Gray, William D. Neumann
 
 * Original [sources](https://github.com/colinta/zenburn).
-* Licensed under the [BSD 2-clause "Simplified"](https://github.com/colinta/zenburn/blob/master/LICENSE).
+* Licensed under the [BSD 2-clause "Simplified" License](https://github.com/colinta/zenburn/blob/master/LICENSE).
 
 
 #### Zenburn
 
 ![Zenburn](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/zenburn.png)
+
+
+### Color Pack from Adam Christiansen, Merrick Christensen, Trevor D. Miller
+
+* Original [sources](https://trevordmiller.com/projects/nova).
+* Licensed under the [MIT License](https://github.com/trevordmiller/nova-colors/blob/master/LICENSE).
+
+
+#### Nova
+
+![Nova](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nova.png)
 
 
 
