@@ -257,6 +257,27 @@ For example, if you do not like the accent color of the Oceanic Next color schem
 ![Espresso Soda](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-soda.png)
 
 
+### Color Pack from Ike Ku
+
+* Original [sources](https://github.com/dempfi/ayu).
+* Licensed under the [MIT License](https://github.com/dempfi/ayu/blob/master/LICENSE).
+
+
+#### Ayu Dark
+
+![Ayu Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-dark.png)
+
+
+#### Ayu Light
+
+![Ayu Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-light.png)
+
+
+#### Ayu Mirage
+
+![Ayu Mirage](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-mirage.png)
+
+
 
 <!-- Links -->
 
