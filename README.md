@@ -32,7 +32,7 @@ Share your ❤ with original authors: support or just thank them!
 
 ## Customization
 
-> This package requires [DA UI][link-engine] package for customization support. Please install it before continuing.
+> This package requires **[DA UI][link-engine]** package for customization support. Please install it before continuing.
 
 
 ### Adjust Common Color Scheme Settings
@@ -129,14 +129,20 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/altercation/solarized/blob/master/LICENSE).
 
 
-#### Solarized Dark
+<p>
+    <details>
+        <summary><strong>Solarized Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-dark.png" alt="Solarized Dark" title="Solarized Dark"></p>
+    </details>
+</p>
 
-![Solarized Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-dark.png)
 
-
-#### Solarized Light
-
-![Solarized Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-light.png)
+<p>
+    <details>
+        <summary><strong>Solarized Light</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/solarized-light.png" alt="Solarized Light" title="Solarized Light"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Dmitri Voronianski
@@ -146,9 +152,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * You can show your appreciation to Dmitri using [PayPal](https://www.paypal.me/voronianski).
 
 
-#### Oceanic Next
-
-![Oceanic Next](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/oceanic-next.png)
+<p>
+    <details>
+        <summary><strong>Oceanic Next</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/oceanic-next.png" alt="Oceanic Next" title="Oceanic Next"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Wimer Hazenberg
@@ -158,34 +167,52 @@ Please fill out the issue template when reporting a bug or suggestion.
 * You can show your appreciation to Wimer via buying [Monokai Pro](https://www.monokai.pro/sublime-text/).
 
 
-#### Monokai Classic
-
-![Monokai Classic](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-classic.png)
-
-
-#### Monokai Machine
-
-![Monokai Machine](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-machine.png)
+<p>
+    <details>
+        <summary><strong>Monokai Classic</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-classic.png" alt="Monokai Classic" title="Monokai Classic"></p>
+    </details>
+</p>
 
 
-#### Monokai Octagon
-
-![Monokai Octagon](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-octagon.png)
-
-
-#### Monokai Pro
-
-![Monokai Pro](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-pro.png)
+<p>
+    <details>
+        <summary><strong>Monokai Machine</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-machine.png" alt="Monokai Machine" title="Monokai Machine"></p>
+    </details>
+</p>
 
 
-#### Monokai Ristretto
+<p>
+    <details>
+        <summary><strong>Monokai Octagon</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-octagon.png" alt="Monokai Octagon" title="Monokai Octagon"></p>
+    </details>
+</p>
 
-![Monokai Ristretto](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-ristretto.png)
+
+<p>
+    <details>
+        <summary><strong>Monokai Pro</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-pro.png" alt="Monokai Pro" title="Monokai Pro"></p>
+    </details>
+</p>
 
 
-#### Monokai Spectrum
+<p>
+    <details>
+        <summary><strong>Monokai Ristretto</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-ristretto.png" alt="Monokai Ristretto" title="Monokai Ristretto"></p>
+    </details>
+</p>
 
-![Monokai Spectrum](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-spectrum.png)
+
+<p>
+    <details>
+        <summary><strong>Monokai Spectrum</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/monokai-spectrum.png" alt="Monokai Spectrum" title="Monokai Spectrum"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Mattia Astorino
@@ -195,19 +222,28 @@ Please fill out the issue template when reporting a bug or suggestion.
 * You can show your appreciation to Mattia using [Beerpay](https://beerpay.io/equinusocio/material-theme).
 
 
-#### Material
-
-![Material](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material.png)
-
-
-#### Material Darker
-
-![Material Darker](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-darker.png)
+<p>
+    <details>
+        <summary><strong>Material</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material.png" alt="Material" title="Material"></p>
+    </details>
+</p>
 
 
-#### Material Palenight
+<p>
+    <details>
+        <summary><strong>Material Darker</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-darker.png" alt="Material Darker" title="Material Darker"></p>
+    </details>
+</p>
 
-![Material Palenight](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-palenight.png)
+
+<p>
+    <details>
+        <summary><strong>Material Palenight</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/material-palenight.png" alt="Material Palenight" title="Material Palenight"></p>
+    </details>
+</p>
 
 
 ### Color Pack from GitHub Inc.
@@ -216,14 +252,20 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/atom/one-dark-syntax/blob/master/LICENSE.md).
 
 
-#### One Dark
+<p>
+    <details>
+        <summary><strong>One Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-dark.png" alt="One Dark" title="One Dark"></p>
+    </details>
+</p>
 
-![One Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-dark.png)
 
-
-#### One Light
-
-![One Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-light.png)
+<p>
+    <details>
+        <summary><strong>One Light</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/one-light.png" alt="One Light" title="One Light"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Jani Nurminen, Colin T.A. Gray, William D. Neumann
@@ -232,9 +274,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [BSD 2-clause "Simplified" License](https://github.com/colinta/zenburn/blob/master/LICENSE).
 
 
-#### Zenburn
-
-![Zenburn](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/zenburn.png)
+<p>
+    <details>
+        <summary><strong>Zenburn</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/zenburn.png" alt="Zenburn" title="Zenburn"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Adam Christiansen, Merrick Christensen, Trevor D. Miller
@@ -243,9 +288,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/trevordmiller/nova-colors/blob/master/LICENSE).
 
 
-#### Nova
-
-![Nova](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nova.png)
+<p>
+    <details>
+        <summary><strong>Nova</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nova.png" alt="Nova" title="Nova"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Arctic Ice Studio
@@ -254,9 +302,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [Apache License](https://github.com/arcticicestudio/nord/blob/develop/LICENSE.md).
 
 
-#### Nord
-
-![Nord](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nord.png)
+<p>
+    <details>
+        <summary><strong>Nord</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/nord.png" alt="Nord" title="Nord"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Chris Thomas
@@ -265,9 +316,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [Permissive License](https://github.com/textmate/themes.tmbundle/blob/master/README.mdown).
 
 
-#### Espresso Libre
-
-![Espresso Libre](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-libre.png)
+<p>
+    <details>
+        <summary><strong>Espresso Libre</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-libre.png" alt="Espresso Libre" title="Espresso Libre"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Ian Hill
@@ -276,9 +330,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 
-#### Espresso Soda
-
-![Espresso Soda](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-soda.png)
+<p>
+    <details>
+        <summary><strong>Espresso Soda</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/espresso-soda.png" alt="Espresso Soda" title="Espresso Soda"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Ike Ku
@@ -287,19 +344,28 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/dempfi/ayu/blob/master/LICENSE).
 
 
-#### Ayu Dark
-
-![Ayu Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-dark.png)
-
-
-#### Ayu Light
-
-![Ayu Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-light.png)
+<p>
+    <details>
+        <summary><strong>Ayu Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-dark.png" alt="Ayu Dark" title="Ayu Dark"></p>
+    </details>
+</p>
 
 
-#### Ayu Mirage
+<p>
+    <details>
+        <summary><strong>Ayu Light</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-light.png" alt="Ayu Light" title="Ayu Light"></p>
+    </details>
+</p>
 
-![Ayu Mirage](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-mirage.png)
+
+<p>
+    <details>
+        <summary><strong>Ayu Mirage</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ayu-mirage.png" alt="Ayu Mirage" title="Ayu Mirage"></p>
+    </details>
+</p>
 
 
 
