@@ -90,24 +90,28 @@ Please fill out the issue template when reporting a bug or suggestion.
 </details>
 
 
-#### Ocean Dark
-
-![Ocean Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png)
-
-
-#### Ocean Light
-
-![Ocean Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png)
+<details>
+    <summary><strong>Ocean Dark</strong></summary><p></p>
+    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png" alt="Ocean Dark" title="Ocean Dark"></p>
+</details>
 
 
-#### Tomorrow Dark
+<details>
+    <summary><strong>Ocean Light</strong></summary><p></p>
+    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png" alt="Ocean Light" title="Ocean Light"></p>
+</details>
 
-![Tomorrow Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png)
+
+<details>
+    <summary><strong>Tomorrow Dark</strong></summary><p></p>
+    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png" alt="Tomorrow Dark" title="Tomorrow Dark"></p>
+</details>
 
 
-#### Tomorrow Light
-
-![Tomorrow Light](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png)
+<details>
+    <summary><strong>Tomorrow Light</strong></summary><p></p>
+    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png" alt="Tomorrow Light" title="Tomorrow Light"></p>
+</details>
 
 
 ### Color Pack from Ethan Schoonover
