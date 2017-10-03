@@ -84,9 +84,12 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/chriskempson/base16/blob/master/LICENSE.md).
 
 
-#### Eighties Dark
-
-![Eighties Dark](https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png)
+<details>
+    <summary>
+        <h4>Eighties Dark</h4>
+    </summary>
+    <img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png" alt="Eighties Dark" title="Eighties Dark">
+</details>
 
 
 #### Ocean Dark
