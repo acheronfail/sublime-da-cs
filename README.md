@@ -88,7 +88,9 @@ Please fill out the issue template when reporting a bug or suggestion.
     <summary>
         <strong>Eighties Dark<strong>
     </summary>
-    <img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png" alt="Eighties Dark" title="Eighties Dark">
+    <p>
+        <img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png" alt="Eighties Dark" title="Eighties Dark">
+    </p>
 </details>
 
 
