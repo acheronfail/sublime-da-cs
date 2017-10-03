@@ -84,34 +84,43 @@ Please fill out the issue template when reporting a bug or suggestion.
 * Licensed under the [MIT License](https://github.com/chriskempson/base16/blob/master/LICENSE.md).
 
 
-<details>
-    <summary><strong>Eighties Dark</strong></summary><p></p>
-    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png" alt="Eighties Dark" title="Eighties Dark"></p>
-</details>
+<p>
+    <details>
+        <summary><strong>Eighties Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/eighties-dark.png" alt="Eighties Dark" title="Eighties Dark"></p>
+    </details>
+</p>
 
 
-<details>
-    <summary><strong>Ocean Dark</strong></summary><p></p>
-    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png" alt="Ocean Dark" title="Ocean Dark"></p>
-</details>
+<p>
+    <details>
+        <summary><strong>Ocean Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-dark.png" alt="Ocean Dark" title="Ocean Dark"></p>
+    </details>
+</p>
+
+<p>
+    <details>
+        <summary><strong>Ocean Light</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png" alt="Ocean Light" title="Ocean Light"></p>
+    </details>
+</p>
 
 
-<details>
-    <summary><strong>Ocean Light</strong></summary><p></p>
-    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/ocean-light.png" alt="Ocean Light" title="Ocean Light"></p>
-</details>
+<p>
+    <details>
+        <summary><strong>Tomorrow Dark</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png" alt="Tomorrow Dark" title="Tomorrow Dark"></p>
+    </details>
+</p>
 
 
-<details>
-    <summary><strong>Tomorrow Dark</strong></summary><p></p>
-    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-dark.png" alt="Tomorrow Dark" title="Tomorrow Dark"></p>
-</details>
-
-
-<details>
-    <summary><strong>Tomorrow Light</strong></summary><p></p>
-    <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png" alt="Tomorrow Light" title="Tomorrow Light"></p>
-</details>
+<p>
+    <details>
+        <summary><strong>Tomorrow Light</strong></summary><p></p>
+        <p><img src="https://raw.githubusercontent.com/ihodev/sublime-da-cs/master/assets/showcase/tomorrow-light.png" alt="Tomorrow Light" title="Tomorrow Light"></p>
+    </details>
+</p>
 
 
 ### Color Pack from Ethan Schoonover
