@@ -20,8 +20,6 @@ Share your ❤ with original authors: support or just thank them!
 
 ## Get It
 
-> Currently the package is not on **Package Control**, but it will be available [**soon**][link-pcpr].
-
 1. Choose `Command Palette › Package Control: Install Package`.
 2. Find `DA CS` and hit `Enter`.
 3. Choose `Command Palette › UI: Select Color Scheme`.
@@ -378,7 +376,6 @@ Please fill out the issue template when reporting a bug or suggestion.
 [link-new-issue]: https://github.com/ihodev/sublime-da-ui/issues/new
 [link-search-issue]: https://github.com/ihodev/sublime-da-ui/search?q=&type=Issues
 [link-twitter]: https://twitter.com/intent/tweet?hashtags=sublimetext%2C%20popular%2C%20colors&ref_src=twsrc%5Etfw&text=DA%20CS%20%E2%9D%A4%20Popular%20Color%20Schemes%20for%20Sublime%20Text%203&tw_p=tweetbutton&url=https%3A%2F%2Fpackagecontrol.io%2Fpackages%2FDA%2520CS&via=trydaui
-[link-pcpr]: https://github.com/wbond/package_control_channel/pull/6630
 
 
 
