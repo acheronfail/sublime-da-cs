@@ -1,6 +1,5 @@
 {
   "Eighties Dark": {
-    "author": "Chris Kempson",
     "colors": {
       "background": "#2d2d2d",
       "foreground": "#d3d0c8",
@@ -15,7 +14,6 @@
     }
   },
   "Ocean Dark": {
-    "author": "Chris Kempson",
     "colors": {
       "background": "#2b303b",
       "foreground": "#c0c5ce",
@@ -30,7 +28,6 @@
     }
   },
   "Ocean Light": {
-    "author": "Chris Kempson",
     "colors": {
       "background": "#eff1f5",
       "foreground": "#4f5b66",
@@ -45,7 +42,6 @@
     }
   },
   "Tomorrow Dark": {
-    "author": "Chris Kempson",
     "colors": {
       "background": "#1d1f21",
       "foreground": "#c5c8c6",
@@ -60,7 +56,6 @@
     }
   },
   "Tomorrow Light": {
-    "author": "Chris Kempson",
     "colors": {
       "background": "#ffffff",
       "foreground": "#282a2e",
@@ -75,7 +70,6 @@
     }
   },
   "Solarized Dark": {
-    "author": "Ethan Schoonover",
     "colors": {
       "background": "#002b36",
       "foreground": "#839496",
@@ -90,7 +84,6 @@
     }
   },
   "Solarized Light": {
-    "author": "Ethan Schoonover",
     "colors": {
       "background": "#fdf6e3",
       "foreground": "#657b83",
@@ -105,7 +98,6 @@
     }
   },
   "Oceanic Next": {
-    "author": "Dmitri Voronianski",
     "colors": {
       "background": "#1b2b34",
       "foreground": "#cdd3de",
@@ -120,7 +112,6 @@
     }
   },
   "Monokai Classic": {
-    "author": "Monokai",
     "colors": {
       "background": "#272821",
       "foreground": "#fdfff1",
@@ -135,7 +126,6 @@
     }
   },
   "Monokai Machine": {
-    "author": "Monokai",
     "colors": {
       "background": "#273136",
       "foreground": "#f2fffc",
@@ -150,7 +140,6 @@
     }
   },
   "Monokai Octagon": {
-    "author": "Monokai",
     "colors": {
       "background": "#282a3a",
       "foreground": "#eaf2f1",
@@ -165,7 +154,6 @@
     }
   },
   "Monokai Pro": {
-    "author": "Monokai",
     "colors": {
       "background": "#2d2a2e",
       "foreground": "#fcfcfa",
@@ -180,7 +168,6 @@
     }
   },
   "Monokai Ristretto": {
-    "author": "Monokai",
     "colors": {
       "background": "#2c2525",
       "foreground": "#fff1f3",
@@ -195,7 +182,6 @@
     }
   },
   "Monokai Spectrum": {
-    "author": "Monokai",
     "colors": {
       "background": "#222222",
       "foreground": "#f7f1ff",
@@ -210,7 +196,6 @@
     }
   },
   "Material": {
-    "author": "Mattia Astorino",
     "colors": {
       "background": "#263238",
       "foreground": "#eeffff",
@@ -225,7 +210,6 @@
     }
   },
   "Material Darker": {
-    "author": "Mattia Astorino",
     "colors": {
       "background": "#212121",
       "foreground": "#eeffff",
@@ -240,7 +224,6 @@
     }
   },
   "Material Palenight": {
-    "author": "Mattia Astorino",
     "colors": {
       "background": "#292d3e",
       "foreground": "#959dcb",
@@ -255,7 +238,6 @@
     }
   },
   "One Dark": {
-    "author": "GitHub Inc.",
     "colors": {
       "background": "#252930",
       "foreground": "#aab1bf",
@@ -270,7 +252,6 @@
     }
   },
   "One Light": {
-    "author": "GitHub Inc.",
     "colors": {
       "background": "#f9f9f9",
       "foreground": "#383942",
@@ -285,7 +266,6 @@
     }
   },
   "Zenburn": {
-    "author": "Jani Nurminen, Colin T.A. Gray, William D. Neumann",
     "colors": {
       "background": "#393939",
       "foreground": "#dedede",
@@ -300,7 +280,6 @@
     }
   },
   "Nova": {
-    "author": "Adam Christiansen, Merrick Christensen, Trevor D. Miller",
     "colors": {
       "background": "#3c4c55",
       "foreground": "#c5d4dd",
@@ -315,7 +294,6 @@
     }
   },
   "Nord": {
-    "author": "Arctic Ice Studio",
     "colors": {
       "background": "#2e3440",
       "foreground": "#d8dee9",
@@ -330,7 +308,6 @@
     }
   },
   "Espresso Libre": {
-    "author": "Chris Thomas",
     "colors": {
       "background": "#2a211c",
       "foreground": "#bdae9d",
@@ -345,7 +322,6 @@
     }
   },
   "Espresso Soda": {
-    "author": "Ian Hill",
     "colors": {
       "background": "#ffffff",
       "foreground": "#000000",
@@ -360,7 +336,6 @@
     }
   },
   "Ayu Dark": {
-    "author": "Ike Ku",
     "colors": {
       "background": "#0f1419",
       "foreground": "#e6e1cf",
@@ -375,7 +350,6 @@
     }
   },
   "Ayu Light": {
-    "author": "Ike Ku",
     "colors": {
       "background": "#fafafa",
       "foreground": "#5c6066",
@@ -390,7 +364,6 @@
     }
   },
   "Ayu Mirage": {
-    "author": "Ike Ku",
     "colors": {
       "background": "#212733",
       "foreground": "#d9d7ce",
